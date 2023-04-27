@@ -1,1 +1,2 @@
 # odin-recipes
+The current project is to build a Recipe website that consist of multiple recipes demonstrating the new concepts I learned. basic HTML boiler plate, CSS styling, linking certain aspects like words and images to either a local link or over the internet. 
